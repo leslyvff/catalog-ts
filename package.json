@@ -1,0 +1,9 @@
+{
+  "name": "catalog-ts",
+  "version": "1.0.0",
+  "description": "CataLog - gestionnaire de catalogue de produits en TypeScript",
+  "main": "dist/main.js",
+  "scripts": { "build": "tsc", "start": "node dist/main.js" },
+  "license": "ISC",
+  "devDependencies": { "typescript": "^5.6.0" }
+}
